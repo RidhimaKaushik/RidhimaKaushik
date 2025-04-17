@@ -1,12 +1,4 @@
-- 👋 Hi, I’m @RidhimaKaushik
-- 👀 I’m interested in ...learning c++,jvs
-- 🌱 I’m currently learning ...c
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...ridhimakaushik.rk@gmail.com
-- 😄 Pronouns: ...she/her
-- ⚡ Fun fact: ...the famous indian bald man wasnt all that great.
+Greeetings! 
 
-<!---
-RidhimaKaushik/RidhimaKaushik is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I’m Ridhima Kaushik, a first-year student in Robotics and AI at Sir M. Visvesvaraya Institute of Technology, Bengaluru. I'm currently building a strong foundation in Python for web development and C for DSA.
+                   
